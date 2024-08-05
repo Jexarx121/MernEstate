@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/Jexarx121/MernEstateBackend
+[submodule "client"]
+	path = client
+	url = https://github.com/Jexarx121/MernEstateUI
